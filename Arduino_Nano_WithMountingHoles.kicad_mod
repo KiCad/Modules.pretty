@@ -1,4 +1,4 @@
-(module Arduino_Nano_WithMountingHoles (layer F.Cu) (tedit 58AB619A)
+(module Arduino_Nano_WithMountingHoles (layer F.Cu) (tedit 58ACAF99)
   (descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
   (tags "Arduino Nano")
   (fp_text reference REF** (at 7.62 -5.08) (layer F.SilkS)
