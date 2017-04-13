@@ -1,10 +1,10 @@
-(module ST_Morpho_Connector_144_With_STLink_WithMountingHoles (layer F.Cu) (tedit 58E7E0A8)
+(module ST_Morpho_Connector_144_STLink_MountingHoles (layer F.Cu) (tedit 58EF3EDE)
   (descr "ST Morpho Connector 144 With STLink")
-  (tags "ST Morpho Connector 144 With STLink")
+  (tags "ST Morpho Connector 144 STLink")
   (fp_text reference REF** (at 31.75 -36.83) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value ST_Morpho_Connector_144_With_STLink_WithMountingHoles (at 31.75 -35.56) (layer F.Fab)
+  (fp_text value ST_Morpho_Connector_144_STLink_MountingHoles (at 31.75 -35.56) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user %R (at 31.75 34.96) (layer F.Fab)
@@ -219,7 +219,7 @@
   (pad 3 thru_hole circle (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Modules.3dshapes/ST_Morpho_Connector_144_With_STLink.wrl
+  (model ${KISYS3DMOD}/Modules.3dshapes/ST_Morpho_Connector_144_STLink.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
